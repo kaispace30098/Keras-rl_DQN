@@ -6,3 +6,7 @@ Create a deep learning model to solve a OpenAI Gym Lunar Lander. <br>
 3.input the model, policy, and the memory in to rl.agent.DQNAgent and compile the model and fit<br>
 4.using wrappers to record videos to check the quaily of the training: agent.test(env,nb_episodes=10,visualize=False)<br>
 5.Save the model's weight
+
+
+https://user-images.githubusercontent.com/93064471/216835680-27e49cb4-fbdd-45a3-aef6-0f23e09596cc.mp4
+
