@@ -1,4 +1,4 @@
-# Keras-rl_DQN-
+# Keras-rl_DQN
 Create a deep learning model to solve a OpenAI Gym Lunar Lander. <br>
 0.Open the Lunar Lander environment from gym <br>
 1.Build the deep learning model by keras Sequential API with Embedding and Dense layers <br>
